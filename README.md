@@ -134,6 +134,9 @@ Hi username! You've successfully authenticated, but GitHub does not provide shel
    git remote add origin git@github.com:username/repo-name.git
    ```
 
+   list config details : git config --get user.name
+
+
 3. **Push Code to GitHub:**
 
    ```bash
